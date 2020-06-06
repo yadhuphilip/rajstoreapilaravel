@@ -1,5 +1,5 @@
 
-<p>
+<pre>
 mysql table
     catagories
     cat_id = primary key, string
@@ -24,4 +24,4 @@ mysql table
             precaus:
                 adding same p_id return error msg:
                 adding new Prod with unkown cat_id returns error msg
-</p>
+</pre>
