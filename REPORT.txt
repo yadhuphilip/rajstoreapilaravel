@@ -1,0 +1,16 @@
+
+
+model ondakumbo naml oru db lineil venm chindiakan
+enitu 
+
+rest api strict app ahn laravel vech buil cheyune engil web.php ill paniyenda
+
+control il namal set cheyune ethina en vecha 
+    controller namak model ile aa oru db alel model athine control cheyan use cheym
+
+
+
+ipo currently 
+    oru cateogry model set aki
+    ini oru product model koode set akiya
+    badakuvarikm nokam pine `
